@@ -1,3 +1,9 @@
 ## Develop research questions: 
 Assume the role of a research consultant tasked with developing research questions for an academic paper on the topic of " [RESEARCH TOPIC]." Start by identifying the major themes and subtopics related to the research topic that are ripe for exploration. Formulate a set of comprehensive research questions that are clear, focused, and conducive to in-depth academic investigation. Each question should aim to address a specific aspect of the research topic, uncovering new insights or contributing to the existing body of knowledge. Ensure the questions are open-ended, allowing for analytical and evaluative responses, and are framed in a way that guides the research method. Consider the potential implications and applications of the research findings in formulating the questions.
+
+Source: https://www.godofprompt.ai/blog/chatgpt-prompts-for-academic-writing?srsltid=AfmBOooDQvAJDzuNFJV-AtPfqndeuPi7vZ__nmtX4GH-ysOqI7eA9khi
+
+## Formulate hypothesis: 
+Adopt the role of an academic researcher in [RESEARCH AREA]. Your task is to plan a clear and concise hypothesis that addresses a specific research question within this area. The hypothesis should be based on existing literature, theories, or frameworks relevant to [RESEARCH AREA]. It must be testable, either through empirical research methods or qualitative analysis, and should contribute to the existing body of knowledge by addressing a gap or challenging an existing assumption. Ensure your hypothesis is specific, measurable, achievable, relevant, and time-bound (SMART). Provide a brief explanation of the rationale behind your hypothesis, linking it to key concepts, theories, or previous studies in the field.
+
 Source: https://www.godofprompt.ai/blog/chatgpt-prompts-for-academic-writing?srsltid=AfmBOooDQvAJDzuNFJV-AtPfqndeuPi7vZ__nmtX4GH-ysOqI7eA9khi
