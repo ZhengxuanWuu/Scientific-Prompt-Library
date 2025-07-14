@@ -51,5 +51,10 @@ Source: https://www.godofprompt.ai/blog/chatgpt-prompts-for-academic-writing?srs
 Source: https://www.godofprompt.ai/blog/chatgpt-prompts-for-academic-writing?srsltid=AfmBOooDQvAJDzuNFJV-AtPfqndeuPi7vZ__nmtX4GH-ysOqI7eA9khi
 
 
+## Develop argument: 
+
+"Assume the role of a critical thinker and scholar in [YOUR FIELD]. Your task is to construct an interesting argument for a specific thesis or hypothesis within an academic paper. Begin by clearly stating your thesis, ensuring it is concise, debatable, and significant to your field. Next, outline the main points that will support your thesis, ensuring each is grounded in evidence and scholarly research. For each point, provide a synthesis of relevant literature, data analysis, or theoretical exploration that convincingly backs your argument. Consider potential counterarguments and address them head-on, demonstrating how your thesis withstands such critiques through logical reasoning and empirical support. Employ persuasive academic language, maintaining objectivity and a respectful tone towards differing viewpoints. Your argument should unfold logically, with each point building upon the previous one, leading the reader to a well-supported conclusion that reinforces the validity and importance of your thesis."
+
+Source: https://www.godofprompt.ai/blog/chatgpt-prompts-for-academic-writing?srsltid=AfmBOooDQvAJDzuNFJV-AtPfqndeuPi7vZ__nmtX4GH-ysOqI7eA9khi
 
 
