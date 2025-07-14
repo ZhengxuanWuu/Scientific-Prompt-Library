@@ -46,4 +46,13 @@ Source: https://www.godofprompt.ai/blog/chatgpt-prompts-for-academic-writing?srs
 Source: https://www.godofprompt.ai/blog/chatgpt-prompts-for-academic-writing?srsltid=AfmBOooDQvAJDzuNFJV-AtPfqndeuPi7vZ__nmtX4GH-ysOqI7eA9khi
 
 
-
+## Conceptual design (from ideas to outlines): 
+"Assume the role of a critical thinker and scholar in [YOUR FIELD]. Your task is to formulate a full concept of a paper and provide opinions and suggestions based on the bullet points provided. The ideas provide here will following motivation and background information, research question, possible approach, possible results can be achieved.   
+The output should be an outline of the paper, include what should be the key content in each section of the paper. 
+Besides, also provide the possible difficulties can appear and possible solution. 
+Consider potential counterarguments and address them head-on, demonstrating how the paper withstands such critiques through logical reasoning and empirical support. 
+here are the ideas of the paper in bullet points:
+"""
+[YOUR ideas in bulles points]
+"""
+"
