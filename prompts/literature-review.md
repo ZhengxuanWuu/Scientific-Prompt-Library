@@ -8,20 +8,15 @@ Idea: Could do the reverse engineering on Elicit.
 
 #Use this prompt to extract population, intervention, outcome, etc.
 "Given the abstract below, extract the following study characteristics:
-
     Population
-
     Intervention
-
     Comparator
-
     Outcome
-
     Study design
-    \n\n Abstract: [Paste abstract here]"
+    Abstract: [Paste abstract here]"
     
 #Use this prompt to summarize findings in tabular format.
-    "Summarize the main findings of the following abstracts in a table. For each, include: Study Title, Year, Sample Size, Key Result."
+"Summarize the main findings of the following abstracts in a table. For each, include: Study Title, Year, Sample Size, Key Result."
 
 #Use this prompt to highlight trends across papers.
 "Based on the following study summaries, identify common findings, patterns, and any contradictions. What is the overall consensus?"
