@@ -1,9 +1,9 @@
-## Scientific-Prompt-Library
+# Scientific-Prompt-Library
 A collection of prompts which could be used for scientific works
 
-## Important Considerations
+# Important Considerations
 
-# Here are some key points to remember when incorporating ChatGPT prompts and its generated content into your academic writing:
+## Here are some key points to remember when incorporating ChatGPT prompts and its generated content into your academic writing:
 
 Accuracy and Fact-Checking: ChatGPT may not always provide perfectly accurate information, especially for factual topics.
 
