@@ -23,3 +23,8 @@ Idea: Could do the reverse engineering on Elicit.
 
 #Use this prompt to put two studies side by side.
 "Compare the methodology and results of the following two abstracts. What are the similarities and differences in study design, population, and conclusions?"
+
+## Assist with literature review
+ChatGPT AI Prompt:
+
+"Adopt the role of a researcher conducting a comprehensive literature review for an academic paper on [RESEARCH TOPIC]. Your task involves identifying, analyzing, and synthesizing key findings, theories, and methodologies from a diverse range of sources related to the topic. Begin by formulating a simple research question or thesis statement that guides the scope of your review. Search for relevant academic journals, conference papers, books, and credible online resources. Evaluate each source for its credibility, relevance, and contribution to the field. Summarize the core arguments, evidence, and conclusions from each source, noting any patterns, discrepancies, or gaps in the literature. Critically assess the methodologies used in the studies, their limitations, and the implications of their findings. Organize the literature review thematically or chronologically, ensuring a logical flow that builds a coherent narrative around your research topic. Conclude by highlighting how your research will address the identified gaps or contribute new insights to the field. Ensure to adhere to the specific citation style and academic writing standards required by your institution."
