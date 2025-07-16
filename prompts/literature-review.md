@@ -58,3 +58,31 @@ Compare and contrast results, strengths, and limitations of studies
 Summarize key points from the review
 Identify gaps in the literature
 Suggest areas for future research "
+
+## workflow for a literature review 
+1. Write an outline for the literature review on the following topic:[your topics]
+2. Provide x references for the above outline on the topic of [your topics] """ very limited here, always double check"""
+3. Provide a summary of the latest research trends on the topic of [your topics]
+
+
+## Best Prompts To Try for Literature Review
+Prompt 1: Generate a list of relevant academic sources on [insert topic] for a comprehensive literature review.
+Prompt 2: Summarize the key findings and arguments from [insert number] scholarly articles on [insert topic] to support my literature review.
+Prompt 3: Analyze the existing literature on [insert topic] and identify any gaps or areas for further research.
+Prompt 4: Provide a critical analysis of the methodologies used in [insert number] research papers on [insert topic] to evaluate their reliability and validity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
